@@ -13,6 +13,7 @@ Le parcours Réseaux est très dense et nous permet de développer une immense c
 **Message particulier aux futurs étudiants en Réseaux :**
 Participez et assistez aux cours, la différence est vraiment remarquable à la fin de la formation. Même si le CM tombe à 8h un vendredi après une soirée.. Mes fiches de cours sont un bon support, mais elles ne peuvent en aucun cas remplacer les enseignements de nos professeurs ! N'hésitez pas à partager et à faire évoluer ces notes. Si vous souhaitez avoir les droits d'édition, contactez-moi, j'en serai ravi ! (Ou même juste si vous avez des question.)
 
+**Sur Notion :** 
 Appuyez sur `cmd`/`Ctrl` + `Shift`/`Maj` + `L` pour passer en mode sombre ou en mode clair.
 
 ## Table des Matières
