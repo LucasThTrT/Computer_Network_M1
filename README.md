@@ -11,7 +11,7 @@ Bienvenue sur le repository des fiches de cours de l'année M1 en Réseaux à l'
 Le parcours Réseaux est très dense et nous permet de développer une immense culture en réseaux et tout ce qui les entoure. C'est vraiment un super parcours pour ceux qui aiment les réseaux et qui souhaitent comprendre tout ce qui se passe dans les communications modernes. Cette année nous offre une vue globale et une nouvelle vision passionnante du domaine.
 
 **Message particulier aux futurs étudiants en Réseaux :**
-Participez et assistez aux cours, la différence est vraiment remarquable à la fin de la formation. Même si le CM tombe à 8h un vendredi après une soirée.. Mes fiches de cours sont un bon support, mais elles ne peuvent en aucun cas remplacer les enseignements de nos professeurs ! N'hésitez pas à partager et à faire évoluer ces notes. Si vous souhaitez avoir les droits d'édition, contactez-moi, j'en serai ravi ! (Ou même juste si vous avez des question.)
+Participez et assistez aux cours, la différence est vraiment remarquable à la fin de la formation. Même si le CM tombe à 8h un vendredi après une soirée.. Mes fiches de cours sont un bon support, mais elles ne peuvent en aucun cas remplacer les enseignements de nos professeurs ! N'hésitez pas à partager et à faire évoluer ces notes. Si vous souhaitez avoir les droits d'édition, contactez-moi, j'en serai ravi ! (Ou même juste si vous avez des questions.)
 
 **Sur Notion :** 
 Appuyez sur `cmd`/`Ctrl` + `Shift`/`Maj` + `L` pour passer en mode sombre ou en mode clair.
