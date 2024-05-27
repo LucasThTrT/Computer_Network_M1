@@ -36,7 +36,7 @@ Appuyez sur `cmd`/`Ctrl` + `Shift`/`Maj` + `L` pour passer en mode sombre ou en 
 
 ## Réseaux Locaux
 
-[Rappels 1A + Cours 2A](https://pineapple-bell-588.notion.site/R-seaux-Mobiles-709dbb0c135849e1b8518e1125588f39)
+[Rappels 1A + Cours 2A](https://pineapple-bell-588.notion.site/7ee283b41fad4da7b1e88d24e54bf595?v=f7b43c8b34124117bbb83ccf0de24e25)
 
 ## Sécurité
 
